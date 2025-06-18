@@ -1,4 +1,4 @@
-import { knightMoves } from './knightMoves.js';
+import { knightMoves } from './moves.js';
 
 document.getElementById('move-form').addEventListener('submit', (e) => {
   e.preventDefault();
