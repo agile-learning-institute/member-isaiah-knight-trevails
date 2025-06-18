@@ -1,0 +1,25 @@
+{
+  "name": "member-isaiah-knight-trevails",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agile-learning-institute/member-isaiah-knight-trevails.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agile-learning-institute/member-isaiah-knight-trevails/issues"
+  },
+  "homepage": "https://github.com/agile-learning-institute/member-isaiah-knight-trevails#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "jest": "^30.0.0",
+    "webpack": "^5.99.9"
+  }
+}
