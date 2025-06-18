@@ -1,4 +1,4 @@
-import { knightMoves } from '../src/knightMoves.js';
+import { knightMoves } from './moves.js';
 
 test('simple move', () => {
   expect(knightMoves([0, 0], [1, 2])).toEqual([[0, 0], [1, 2]]);
